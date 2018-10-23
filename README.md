@@ -10,3 +10,5 @@ to work with Git courses.
 Cool stuff goes here
 
 An edit on example branch.
+
+New edit on the update-readme branch.
